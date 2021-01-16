@@ -1,2 +1,1 @@
-## MIE 1628: Big Data Science
-### Course Project: Reddit Post Popularity Prediction
+### MIE 1628 Course Project: Reddit Post Popularity Prediction
